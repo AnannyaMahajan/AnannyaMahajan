@@ -4,9 +4,18 @@
 
 # Anannya Mahajan
 
-<sup>Full Stack Developer &nbsp;·&nbsp; AI &amp; LLM Applications &nbsp;·&nbsp; Data Science</sup>
+<sup>Full Stack Developer &nbsp;·&nbsp; AI &amp; LLM Applications</sup>
 
 <br/>
+
+<table border="0">
+<tr>
+<td valign="middle" align="center">
+
+<img height="120" src="https://raw.githubusercontent.com/nikitha11925/nikitha11925/main/wave.gif" alt="waving pixel girl" />
+
+</td>
+<td valign="middle">
 
 <pre>
   .   .     . .      .  .   .  .      .    . .
@@ -16,6 +25,10 @@
   '   ' `--'`-`-`-'      ' '  `-' '   `-`-'`-o
 </pre>
 
+</td>
+</tr>
+</table>
+
 [![typing](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1200&color=7CB9FF&center=true&vCenter=true&width=520&height=30&lines=%E2%96%B8+system+online+%E2%80%94+welcome_;%E2%96%B8+building+with+Python%2C+FastAPI+%26+Gemini;%E2%96%B8+%CB%96%E2%8A%B9%F0%96%A5%94+point%2C+click%2C+explore)](https://github.com/AnannyaMahajan)
 
 </div>
@@ -24,7 +37,7 @@
 
 ## whoami
 
-I'm **Anannya Mahajan** — a Computer Science & Engineering student at **Shri Ramdeobaba University, Nagpur** (B.Tech, expected May 2028), pursuing a **B.Sc in Data Science from IIT Madras** (online, expected 2028) at the same time. I build full-stack web apps and AI-powered developer tools with Python, FastAPI and the Gemini API, and I've shipped 7 projects on my own. I'm a **Google Student Ambassador 2026**. Currently open to internships and interesting problems.
+I'm **Anannya Mahajan** — a Computer Science & Engineering student at **Shri Ramdeobaba University, Nagpur** (B.Tech, expected May 2028). I build full-stack web apps and AI-powered developer tools with Python, FastAPI and the Gemini API, and I've shipped 7 projects on my own. I'm a **Google Student Ambassador 2026**. Currently open to internships and interesting problems.
 
 <div align="center">
 
@@ -68,9 +81,8 @@ I'm **Anannya Mahajan** — a Computer Science & Engineering student at **Shri R
 | Degree | Institution | Timeline |
 |---|---|---|
 | **B.Tech — Computer Science & Engineering** | Shri Ramdeobaba University, Nagpur | Expected May 2028 |
-| **B.Sc — Data Science** (online, concurrent) | Indian Institute of Technology (IIT) Madras | Expected 2028 |
 
-<sub>`˖⊹𖥔` Coursework: Data Structures & Algorithms, OOP, DBMS, Artificial Intelligence, Statistics · No active backlogs · IIT Madras Foundation Level completed (Programming, Statistics, Computational Thinking)</sub>
+<sub>`˖⊹𖥔` Coursework: Data Structures & Algorithms, OOP, DBMS, Artificial Intelligence, Statistics · No active backlogs</sub>
 
 ---
 
@@ -116,7 +128,7 @@ I'm **Anannya Mahajan** — a Computer Science & Engineering student at **Shri R
 
 <sub>🏁 **Smart India Hackathon (SIH)** &nbsp;·&nbsp; **Google GenAI Hackathon** &nbsp;·&nbsp; **Ecothon** (college-level) — participated, built complete websites as part of team solutions<br/>
 🧠 **200+ problems solved on LeetCode** — strong grounding in DSA and complexity analysis<br/>
-📚 **Two degrees at once** (B.Tech CSE + B.Sc Data Science, IIT Madras) while independently shipping 7 software projects</sub>
+🛠️ **7 software projects** built and shipped independently</sub>
 
 #
 
